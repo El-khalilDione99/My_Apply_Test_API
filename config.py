@@ -3,5 +3,5 @@ connection_postgres = {
     'user': 'postgres',  
     'password': 'Dione@99',  
     'port': '5432',
-    'database':'gestion_prompt'
+    'database':'gestion_api'
 }
